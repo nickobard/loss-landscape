@@ -63,3 +63,5 @@ For each $(\alpha, \beta)$ in a grid, we:
 
 We plot the loss values over the $(\alpha, \beta)$ grid to visualize the loss landscape.
 
+![](img/loss_land_vis1.png)
+![](img/loss_land_vis2.png)
